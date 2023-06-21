@@ -1,3 +1,3 @@
-import { of, from } from 'rxjs';
+import {  } from 'rxjs';
+import {  } from 'rxjs/operators';
 
-console.log('Hola mundo');
